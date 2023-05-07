@@ -1,6 +1,4 @@
-I forked this from gcanti to keep things updated.
-
-updates from original gcanti repo:
+Updates from original repo:
 - Select components exported from `@react-native-picker/picker`
 - Datepicker components exported from `@react-native-community/datetimepicker` and fixed necessary prop names
 
