@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/gcanti/tcomb-form-native",
   "dependencies": {
-    "@react-native-community/datetimepicker": "^7.0.1",
-    "@react-native-picker/picker": "^2.4.9",
+    "@react-native-community/datetimepicker": "8.0.1",
+    "@react-native-picker/picker": "2.7.5",
     "tcomb-validation": "^3.0.0"
   },
   "devDependencies": {
